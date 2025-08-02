@@ -57,5 +57,5 @@ This project is open-source and available under the [MIT License](LICENSE), unle
 
 For questions, suggestions, or collaborations, feel free to reach out:
 - **Name**: Atharva Amrutkar 
-- **Email**: aharvaamrutkar5@gmail.com
+- **Email**: atharvaamrutkar5@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/atharva-amrutkar-a51656329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
